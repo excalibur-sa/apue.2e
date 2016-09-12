@@ -236,3 +236,9 @@ opend.fe/opend
 sockets/ruptime-dg
 
 sockets/ruptimed-dg
+
+lib/ptyopen.c
+
+std/conf.c
+
+std/options.c
